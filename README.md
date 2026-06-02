@@ -20,9 +20,9 @@ This project builds an end-to-end NLP pipeline that classifies user comments int
 
 <img width="632" height="573" alt="Screenshot 2026-06-03 at 2 13 52 AM" src="https://github.com/user-attachments/assets/02a90a4b-54e6-424f-a4ae-a516bc35e82f" />
 
-<img width="481" height="486" alt="Screenshot 2026-06-03 at 2 10 35 AM" src="https://github.com/user-attachments/assets/0375ceee-7327-4167-87b7-690ca6d03689" />
+<img width="637" height="474" alt="Screenshot 2026-06-03 at 2 51 54 AM" src="https://github.com/user-attachments/assets/65ad9003-8d78-4416-a53e-6c2316eb1d93" />
 
-<img width="321" height="155" alt="Screenshot 2026-06-03 at 2 11 15 AM" src="https://github.com/user-attachments/assets/38169ffe-283f-4258-b737-aef140697e98" />
+<img width="481" height="486" alt="Screenshot 2026-06-03 at 2 10 35 AM" src="https://github.com/user-attachments/assets/0375ceee-7327-4167-87b7-690ca6d03689" />
 
 ---
 
