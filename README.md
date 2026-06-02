@@ -18,7 +18,7 @@ This project builds an end-to-end NLP pipeline that classifies user comments int
 
 ```
 ├── notebook-t12026.ipynb   # Full project notebook
-├── submission.csv                      # Final competition submission
+├── submission (2).csv      # Final competition submission
 └── README.md
 ```
 
