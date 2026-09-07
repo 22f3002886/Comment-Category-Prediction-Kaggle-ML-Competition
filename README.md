@@ -275,7 +275,7 @@ Run all cells to reproduce preprocessing, training, validation metrics, plots, a
 **Abhishek Kumar**
 B.S. Data Science · IIT Madras
 
-* LinkedIn — [linkedin.com/in/masterabhishek](https://www.linkedin.com/in/masterabhishek/)
+* LinkedIn — [linkedin.com/in/masterabhishek](https://www.linkedin.com/in/abhishek-r-thakur/)
 * GitHub — [github.com/22f3002886](https://github.com/22f3002886)
 * Kaggle — [kaggle.com/abhiishek01](https://www.kaggle.com/abhiishek01)
 
